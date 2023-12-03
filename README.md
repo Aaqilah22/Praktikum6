@@ -25,3 +25,4 @@ LANGKAH-LANGKAH PRAKTIKUM
 ![gambar](prak6(4).png)
 
 ![gambar](prak6(5).png)
+

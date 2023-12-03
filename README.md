@@ -26,3 +26,5 @@ LANGKAH-LANGKAH PRAKTIKUM
 
 ![gambar](prak6(5).png)
 
+# FLOWCHART 
+![gambar](flowchart.png) 
